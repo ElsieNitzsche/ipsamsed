@@ -1,0 +1,6 @@
+packages:
+  - 'docs'
+  - 'packages/*'
+  - 'packages/**/__fixtures__/*'
+  - 'packages/register-tests/*'
+  - 'playgrounds/*'
